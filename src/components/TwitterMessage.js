@@ -14,6 +14,8 @@ class TwitterMessage extends React.Component {
       val: event.target.value
     })
   }
+  
+  
 
   render() {
     return (
