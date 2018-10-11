@@ -16,6 +16,10 @@ class LoginForm extends React.Component {
       password: event.target.value
     })
   }
+  
+  handleSubmit(){
+    
+  }
 
   render() {
     return (
